@@ -7,21 +7,16 @@ This mod chip that you receive can plug directly into the x301 as it uses the ca
 To be more clear, if you just take it out of the package and plug it in and turn on the laptop, you will directly short the backlight and blow the fuse, You will send 5v to a lvds - pin on the mod chip and panel. 
 This mod will change the kit so that it no longer works on a T420 or T430, if you attempt to use it on one after this, you are dumb
 
+
+
 The process to rewire the plug is very straightforward and requires very little soldering skills. It is more of a test of your fine motor skills. 
 A quick summary of the work:
-
 13 red 42awg shielded strand wires
-
 16 blue 44awg shielded strand wires
-
 of the red wires, 4 need the pin gender reversed
-
 of the blue wires, 6 need the pin gender reversed
-
 wire to pin alignment must be perfect and there must not be excess solder left on the pin
-
 great care must be taken to not damage the connector so that it properly functions in pin retention and separation.
-
 it is critical that you do not damage or otherwise modify the length of any blue wire. 
 
 General steps of the process:
