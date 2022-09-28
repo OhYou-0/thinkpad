@@ -1,6 +1,6 @@
 This mod uses the pre-existing LVDS to eDP bridge adapter cable thing for the T420/T430 (not s models, they use a flat flex for lvds)
-I have tested this on a x301 and an x300. There is no reason it should not also work on a t400s. I may update this with other thinkpads it might work on. It does not work on a T400
-You are limited to 1080p 16:9 panels, but you are not necesarily limited to the supported panels of the mod. Please consult schematics or ask around what works on the t420 as it should also work here
+I have tested this on a x301 and an x300. There is no reason it should not also work on a t400s. I may update this with other thinkpads it might work on. It does not work on a T400.
+You are limited to 1080p 16:9 panels, but you are not necesarily limited to the supported panels of the mod. Please consult schematics or ask around what works on the t420 as it should also work here.
 The n140hcg-gq2 should fit in the lid of the x301, I will find out tomorrow. I think others have tested it with the adapter before so it should probably work.
 
 This mod chip that you receive can plug directly into the x301 as it uses the came connector. But it is wired completely differently and it will damage your thinkpad, the mod chip, and the lcd.
