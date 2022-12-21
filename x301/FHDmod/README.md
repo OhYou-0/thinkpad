@@ -73,4 +73,4 @@ although you can insert it with the shield off if you are careful and help the p
 optionally, disassemble the original cable, and cut the wires off for the webcam and thinklight, you will have to strip the insulation and solder them to all the extra pins, then terminate them in the plug. 
 
 10:
-re-wrap the cable. route the cable into the lid, as there is no room for the mod chip in the chassis. 
+re-wrap the cable. The bridge PCB will not fit in the lid behind the LCD. You must place it inside the chsssis. It might fit in the WWAN locztion but this prevents other mods potentially. Mine is isntalled in the WLAN location for now but there may be room between the pcb and the bottom case. 
